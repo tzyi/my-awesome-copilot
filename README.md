@@ -52,7 +52,7 @@
     - [kiro-01-steering-architect.prompt.md](prompts/kiro-01-steering-architect.prompt.md)
     - [kiro-02-strategic-planner.prompt.md](prompts/kiro-02-strategic-planner.prompt.md)
     - [kiro-03-task-executor.prompt.md](prompts/kiro-03-task-executor.prompt.md)
-- 我自己試驗還是在Claude Code效果比較好，但為了在Github Copilot有一樣工作流，所以我修改了這些prompt，讓它們可以在Github Copilot中使用。
+- 我自己試驗還是在Claude Code效果比較好(但也燒Tokens啊!!)，但為了在Github Copilot有一樣工作流，所以我修改了這些prompt，讓它們可以在Github Copilot中使用。
 - 大家可以根據自己的需求修改
 - 使用方式 : 
 ```bash
